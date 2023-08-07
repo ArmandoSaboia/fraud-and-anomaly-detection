@@ -29,5 +29,5 @@ Each step of the project is meticulously executed and documented. The code and d
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fraud-anomaly-detection.git
-   cd fraud-anomaly-detection
+   git clone [https://github.com/ArmandoSaboia/fraud-and-anomaly-detection.git)]
+   cd fraud-and-anomaly-detection
