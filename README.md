@@ -36,23 +36,17 @@ Each step of the project is meticulously executed and documented. The code and d
 pip install -r requirements.txt
 
 ## Usage
-- **Data Loading and Exploration:**
-Run the code in the Python code file to load and explore the dataset.
+- **Data Loading and Exploration:** Run the code in the Python code file to load and explore the dataset.
 
-- **Data Preprocessing:
-Handle missing values and standardize features in the dataset.
+- **Data Preprocessing:** Handle missing values and standardize features in the dataset.
 
-- **Exploratory Data Analysis (EDA):
-Visualize transaction amounts and patterns using the provided code.
+- **Exploratory Data Analysis (EDA):** Visualize transaction amounts and patterns using the provided code.
 
-- **Model Development with PyCaret:
-Use PyCaret to develop an Isolation Forest model for anomaly detection.
+- **Model Development with PyCaret:** Use PyCaret to develop an Isolation Forest model for anomaly detection.
 
-- **Interactive Visualization with Mito:
-Use Mito to create interactive visualizations for deeper insights.
+- **Interactive Visualization with Mito:** Use Mito to create interactive visualizations for deeper insights.
 
-- **Streamlit Application:
-Run the Streamlit app using the provided Streamlit code.
+- **Streamlit Application:** Run the Streamlit app using the provided Streamlit code.
 
 ## Presentation and Documentation:
 Create a detailed README like this one and provide explanations for each step.
