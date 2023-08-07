@@ -37,32 +37,31 @@ pip install -r requirements.txt
 
 ## Usage
 Data Loading and Exploration:
+Run the code in the Python code file to load and explore the dataset.
 
-## Run the code in the Python code file to load and explore the dataset.
 Data Preprocessing:
+Handle missing values and standardize features in the dataset.
 
-##Handle missing values and standardize features in the dataset.
-##Exploratory Data Analysis (EDA):
+Exploratory Data Analysis (EDA):
+Visualize transaction amounts and patterns using the provided code.
 
-##Visualize transaction amounts and patterns using the provided code.
-##Model Development with PyCaret:
+Model Development with PyCaret:
+Use PyCaret to develop an Isolation Forest model for anomaly detection.
 
-##Utilize PyCaret to develop an Isolation Forest model for anomaly detection.
-##Interactive Visualization with Mito:
+Interactive Visualization with Mito:
+Use Mito to create interactive visualizations for deeper insights.
 
-##Use Mito to create interactive visualizations for deeper insights.
-##Streamlit Application:
+Streamlit Application:
+Run the Streamlit app using the provided Streamlit code.
 
-##Run the Streamlit app using the provided Streamlit code.
-##Presentation and Documentation:
-
-##Create a detailed README like this one and provide explanations for each step.
+Presentation and Documentation:
+Create a detailed README like this one and provide explanations for each step.
 
 ##Contributing
-##Contributions are welcome! If you have ideas, suggestions, or improvements, please feel free to submit a pull request.
+Contributions are welcome! If you have ideas, suggestions, or improvements, please feel free to submit a pull request.
 
 ##License
-##This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-##This README provides an organized and informative overview of your project, making it easier for others to understand, use, and contribute.
+
 
