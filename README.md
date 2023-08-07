@@ -35,11 +35,11 @@ Each step of the project is meticulously executed and documented. The code and d
 ## Install the required libraries:
 pip install -r requirements.txt
 
-##Usage
+## Usage
 Data Loading and Exploration:
 
-##Run the code in the Python code file to load and explore the dataset.
-##Data Preprocessing:
+## Run the code in the Python code file to load and explore the dataset.
+Data Preprocessing:
 
 ##Handle missing values and standardize features in the dataset.
 ##Exploratory Data Analysis (EDA):
