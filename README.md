@@ -36,7 +36,7 @@ Each step of the project is meticulously executed and documented. The code and d
 pip install -r requirements.txt
 
 ## Usage
-Data Loading and Exploration:
+### Data Loading and Exploration:
 Run the code in the Python code file to load and explore the dataset.
 
 Data Preprocessing:
@@ -61,7 +61,7 @@ Create a detailed README like this one and provide explanations for each step.
 Contributions are welcome! If you have ideas, suggestions, or improvements, please feel free to submit a pull request.
 
 ##License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE(https://github.com/ArmandoSaboia/fraud-and-anomaly-detection/blob/main/LICENSE) file for details.
 
 
 
