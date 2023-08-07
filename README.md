@@ -55,7 +55,7 @@ Create a detailed README like this one and provide explanations for each step.
 Contributions are welcome! If you have ideas, suggestions, or improvements, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE (https://github.com/ArmandoSaboia/fraud-and-anomaly-detection/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the ![LICENSE](https://github.com/ArmandoSaboia/fraud-and-anomaly-detection/blob/main/LICENSE) file for details.
 
 
 
