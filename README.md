@@ -18,7 +18,7 @@ This project aims to develop a comprehensive Fraud and Anomaly Detection System 
 - **Data Loading and Exploration:** Load and explore the credit card transaction dataset. Visualize the class distribution of transactions.
 - **Data Preprocessing:** Handle missing values and standardize selected features.
 - **Exploratory Data Analysis (EDA):** Analyze the distribution of transaction amounts and visualize patterns using histograms and box plots.
-- **Model Development with PyCaret:** Develop an Isolation Forest model for anomaly detection using the PyCaret library.
+- **Model Development with PyCaret:** Develop a model for anomaly detection using the PyCaret library.
 - **Interactive Visualization with Mito:** Utilize Mito for creating interactive visualizations to gain insights from the data.
 - **Streamlit Application:** Build a user-friendly Streamlit app for users to interact with the data and view anomaly detection results.
 - **Presentation and Documentation:** Create a comprehensive presentation and documentation outlining the project steps, findings, and usage instructions.
