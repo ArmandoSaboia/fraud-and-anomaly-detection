@@ -1,6 +1,6 @@
 # Fraud and Anomaly Detection System
 
-![Fraud Detection]((https://assets.website-files.com/5c6283f39ea6205dee7cf941/5e77612699e08415b62b9868_online_payment_fraud-p-2600.jpeg))
+![Fraud Detection](https://assets.website-files.com/5c6283f39ea6205dee7cf941/5e77612699e08415b62b9868_online_payment_fraud-p-2600.jpeg)
 
 ## Table of Contents
 - [Introduction](#introduction)
