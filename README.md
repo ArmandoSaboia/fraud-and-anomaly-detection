@@ -1,6 +1,6 @@
 # Fraud and Anomaly Detection System
 
-![Fraud Detection]([https://your-image-url.com/fraud_detection.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nttdata-gps.com%2Finsights%2Fonline-payment-frauds-types-and-how-to-alleviate-them&psig=AOvVaw26cPeKHy2VHA2wFO8NcA2t&ust=1691502713188000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCR9uTYyoADFQAAAAAdAAAAABBp))
+![Fraud Detection]([(https://assets.website-files.com/5c6283f39ea6205dee7cf941/5e77612699e08415b62b9868_online_payment_fraud-p-2600.jpeg)))
 
 ## Table of Contents
 - [Introduction](#introduction)
