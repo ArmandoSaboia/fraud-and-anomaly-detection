@@ -12,7 +12,11 @@
 - [License](#license)
 
 ## Introduction
-This project aims to develop a comprehensive Fraud and Anomaly Detection System using Python and Machine Learning. The system leverages various data preprocessing techniques, machine learning models, interactive visualizations, and a user-friendly Streamlit app to identify fraudulent credit card transactions and visualize anomalies.
+In today's digital world, financial transactions are increasingly conducted online, making them susceptible to fraudulent activities. Fraudulent transactions can result in significant financial losses for businesses and individuals. To combat fraud, organizations are employing data science and machine learning techniques to identify patterns and anomalies in transaction data.
+The goal of this project is to develop a data-driven system for detecting fraudulent transactions. The system leverages various data preprocessing techniques, machine learning models, interactive visualizations, and a user-friendly Streamlit app and should be able to:
+- Identify fraudulent transactions 
+- Minimize false positives
+- Provide insights into the characteristics of fraudulent transactions
 
 ## Project Overview
 - **Data Loading and Exploration:** Load and explore the credit card transaction dataset. Visualize the class distribution of transactions.
